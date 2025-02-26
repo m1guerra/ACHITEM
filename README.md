@@ -1,1 +1,1 @@
-PowerOn, a proprietary programming language used primarily in the financial services industry, particularly by credit unions using the Symitar core processing system.
+This repository uses the PowerOn programming language used on the platform Episys by Symitar.
